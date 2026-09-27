@@ -1,4 +1,0 @@
-﻿  vjezba4.cpp
-C:\Users\Tarik\Desktop\vjezba4\vjezba4.cpp(14,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Tarik\Desktop\vjezba4\vjezba4.cpp(517,13): warning C4154: deletion of an array expression; conversion to pointer supplied
-  vjezba4.vcxproj -> C:\Users\Tarik\Desktop\vjezba4\x64\Debug\vjezba4.exe
